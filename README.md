@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on quantitative trading strategy. And looking for internship at any sell side or fund.
+🔭 I’m currently working on data science problems. NLP, Vision and EDA.
+
+🌱 I’m currently learning quantitative trading strategy especialy trading with bayesian, and looking for internship at any sell side or fund.
 
 ⚡ [My current resume](https://docs.google.com/document/d/11bBKfam79H5438KJ35qMcZLJcyRiESZsszIT82Tnjm0/edit?usp=sharing) 
 
-📫 How to reach me: Drop me an email: nguyenhieuec@gmail.com
+📫 Drop me an email: nguyenhieuec@gmail.com
 <!--
 **nguyenhieuec/nguyenhieuec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
