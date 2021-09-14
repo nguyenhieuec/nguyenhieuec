@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 Data engineer @ SSI cooperation.
+🔭 I'm currently work as Data engineer @ SSI cooperation.
 
 ⚡ [My current resume](https://docs.google.com/document/d/11bBKfam79H5438KJ35qMcZLJcyRiESZsszIT82Tnjm0/edit?usp=sharing) 
 
