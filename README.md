@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-🔭 I'm currently work as Trading Analyst @ ZDT.
+🔭 I'm currently working as a Trading Analyst.
 
-⚡ [My current resume](https://docs.google.com/document/d/11bBKfam79H5438KJ35qMcZLJcyRiESZsszIT82Tnjm0/edit?usp=sharing) 
+⚡ [My current resume](https://docs.google.com/document/d/1pq3-ehP0ZvSfnXoQYAUyBzOzm-7ECrEihSbYZTRLYoQ/) 
 
-📫 Drop me an email: nguyenhieuec@gmail.com
+📫 Drop me an email: nguyenhieuec@gmail.com.
+🔭 Hire me at: [Upwork](https://www.upwork.com/freelancers/hieuqcf)
 <!--
 **nguyenhieuec/nguyenhieuec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
