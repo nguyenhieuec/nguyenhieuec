@@ -6,6 +6,8 @@
 
 📫 Drop me an email: nguyenhieuec@gmail.com.
 🔭 Hire me at: [Upwork](https://www.upwork.com/freelancers/hieuqcf)
+
+[![committers.top badge](https://user-badge.committers.top/vietnam/nguyenhieuec.svg)](https://user-badge.committers.top/vietnam/nguyenhieuec)
 <!--
 **nguyenhieuec/nguyenhieuec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
