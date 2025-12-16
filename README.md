@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I'm currently working as a Trading Analyst.
+🔭 I'm currently working as a Trade Monitoring.
 
 ⚡ [My current resume](https://docs.google.com/document/d/1pq3-ehP0ZvSfnXoQYAUyBzOzm-7ECrEihSbYZTRLYoQ/) 
 
